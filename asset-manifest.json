@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://harshgupta84.github.io/csb-jfzhij/static/js/main.f447e444.chunk.js",
+    "main.js.map": "https://harshgupta84.github.io/csb-jfzhij/static/js/main.f447e444.chunk.js.map",
+    "runtime-main.js": "https://harshgupta84.github.io/csb-jfzhij/static/js/runtime-main.faab6ed7.js",
+    "runtime-main.js.map": "https://harshgupta84.github.io/csb-jfzhij/static/js/runtime-main.faab6ed7.js.map",
+    "static/js/2.71074f19.chunk.js": "https://harshgupta84.github.io/csb-jfzhij/static/js/2.71074f19.chunk.js",
+    "static/js/2.71074f19.chunk.js.map": "https://harshgupta84.github.io/csb-jfzhij/static/js/2.71074f19.chunk.js.map",
+    "index.html": "https://harshgupta84.github.io/csb-jfzhij/index.html",
+    "precache-manifest.acf7bdd6f7abe533405659e3e88008d8.js": "https://harshgupta84.github.io/csb-jfzhij/precache-manifest.acf7bdd6f7abe533405659e3e88008d8.js",
+    "service-worker.js": "https://harshgupta84.github.io/csb-jfzhij/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faab6ed7.js",
+    "static/js/2.71074f19.chunk.js",
+    "static/js/main.f447e444.chunk.js"
+  ]
+}
